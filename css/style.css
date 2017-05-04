@@ -170,14 +170,22 @@ body, html
 
 .contact .contact-holder img
 {
-	margin-bottom: 10x;
+	text-align: right;
+	margin-bottom: 40px; 
+}
+
+#name {
+	margin-bottom: 40px; 
 	text-align: right;
 }
+
+
 .contact .contact-holder p
 {
-	margin-bottom: 10x;
 	text-align: right;
+	margin-bottom: 20px; 
 }
+
 footer
 {
 	padding-top: 0px;
